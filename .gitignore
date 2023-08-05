@@ -1,3 +1,7 @@
 ﻿.idea
 cmake-build-*
 ndppd.conf
+*.swp
+*.o
+*.gz
+ndppd
